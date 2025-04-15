@@ -1,2 +1,2 @@
-# git-pull para actualizar en repositorio local
+# git-pull para probar git fetch
 Repositorio para practicar comando git pull
